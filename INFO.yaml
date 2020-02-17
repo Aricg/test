@@ -1,7 +1,7 @@
 ---
 project: 'test'
 project_creation_date: 'none'
-project_category: ''
+project_category: 'test'
 lifecycle_state: ''
 project_lead: &lfitsandbox_test_ptl
     name: 'Trevor Bramwell'
